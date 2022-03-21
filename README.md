@@ -13,7 +13,7 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-teixeira-ba893b186/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" /> </a>
+<a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-teixeira-ba893b186/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" /> </a>
 <a href="https://www.facebook.com/profile.php?id=100003010857756" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="jpstFb" height="30" width="40" /> </a>
 <a href="https://www.instagram.com/jpst5/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/1384/1384063.png" alt="jpstinsta" height="30" width="40" /> </a>
 
