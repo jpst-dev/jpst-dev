@@ -9,7 +9,7 @@
 
 - 📧 How to reach me? **Connect to me via [Email](jpst_2001?hotmail.com)**
 
-- ⚡ Fun fact: **Gym is my second home**
+- ⚡ Fun fact: **Stack Overflow is my religion**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
