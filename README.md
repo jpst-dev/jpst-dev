@@ -83,7 +83,7 @@
 ### 📫 Onde me encontrar
 
 - 🌐 Portfólio: [joaoteixeira.vercel.app](https://joaoteixeira.vercel.app)
-- 💼 LinkedIn: [linkedin.com/in/seu-usuario](https://www.linkedin.com/in/jpst-dev/)
+- 💼 LinkedIn: [linkedin.com/in/jpst-dev](https://www.linkedin.com/in/jpst-dev/)
 - 📧 E-mail: jpst_2001@hotmail.com
 
 ---
