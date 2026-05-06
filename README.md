@@ -1,68 +1,64 @@
-<!-- Header com Banner Personalizado -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=00dc82&height=200&section=header&text=João%20Teixeira&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20|%20Vue%20Specialist&descSize=20&descAlignY=60" width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://joaoteixeira.vercel.app"><b>Website</b></a> •
-  <a href="https://linkedin.com/in/jpst-dev"><b>LinkedIn</b></a> •
-  <a href="mailto:jteixeira.dev@hotmail.com"><b>E-mail</b></a>
+# 👨‍💻 João Teixeira
+<p align="left">
+  <a href="https://joaoteixeira.vercel.app">
+    <img src="https://img.shields.io/badge/Portfólio-00DC82?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/jpst-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 🏛️ Filosofia & Engenharia
-> *"A clareza é a cortesia do programador, assim como a distinção é a do filósofo."*
+### 🏛️ Sobre mim & Filosofia de Desenvolvimento
+Desenvolvedor Front-end focado em **Vue.js** e **Arquitetura de Software**. Meu trabalho é pautado pela busca da ordem, clareza lógica e soluções perenes — princípios que extraio tanto da engenharia de software quanto dos meus estudos em filosofia e teologia clássica.
 
-Sou um desenvolvedor movido pela busca da **ordem** e da **eficiência**. Minha base técnica no ecossistema Vue.js é complementada por estudos em lógica e teologia clássica, o que me permite abordar problemas complexos com rigor analítico e busca por soluções perenes, não apenas temporárias.
-
-- 🏗️ **Arquitetura:** Foco em Nuxt 3, TypeScript e Clean Code.
-- 🎓 **Intelecto:** Estudioso da doutrina católica, filosofia escolástica e apologética.
-- 🚀 **Objetivo:** Construir interfaces que sejam tão sólidas quanto belas.
+- 🛠️ Atualmente focado em **Nuxt 3**, **TypeScript** e **Testes Automatizados**.
+- 📚 Estudando padrões de projeto, Clean Architecture e performance web.
+- 🎯 Objetivo: Construir interfaces que unam rigor técnico e usabilidade impecável.
 
 ---
 
 ### 🛠️ Tech Stack
+
+**Core & Frameworks**
 <p align="left">
-  <!-- Core -->
-  <img src="https://skillicons.dev/icons?i=vue,nuxt,ts,tailwind,react,nextjs" /><br/><br/>
-  <!-- Tooling -->
-  <img src="https://skillicons.dev/icons?i=vite,git,github,githubactions,jest,cypress" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vue,nuxt,ts,tailwind,react,nextjs" />
+  </a>
+</p>
+
+**Ferramentas, Testes & DevOps**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vite,git,github,githubactions,jest,cypress,mongodb,redis" />
+  </a>
 </p>
 
 ---
 
-### 🌟 Projetos Selecionados
+### 🌟 Projetos em Destaque
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <p align="center"><b>🎬 CineMatch</b></p>
-        <p align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jpst-dev&repo=cinematch&theme=nord" width="100%"></p>
-      </td>
-      <td width="50%">
-        <p align="center"><b>💰 Finanças Pessoais</b></p>
-        <p align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jpst-dev&repo=finance-dashboard&theme=nord" width="100%"></p>
-      </td>
-    </tr>
-  </table>
-</div>
+| Projeto | Stack | Descrição |
+| :--- | :--- | :--- |
+| 🎬 **[CineMatch](https://github.com/jpst-dev/cinematch)** | `Vue 3`, `TS`, `Tailwind` | Sugestão de filmes integrando Rotten Tomatoes. |
+| 🎮 **[GameDeals](https://github.com/jpst-dev/gamedeals)** | `Nuxt 3`, `Vue`, `Tailwind` | MVP de plataforma para descoberta e promoção de jogos. |
+| 🏛️ **[Veritas Fidei](https://github.com/jpst-dev/veritas-fidei)** | `Vue 3`, `TypeScript` | Projeto focado em estudos de teologia e apologética católica. |
+| 💼 **[Portfolio V3](https://github.com/jpst-dev/portfolio-v3)** | `Vue 3`, `Vite`, `Tailwind` | Portfólio focado em performance e SEO. |
+| 💰 **[Finanças Pessoais](https://github.com/jpst-dev/finance-dashboard)** | `Nuxt 3`, `TypeScript` | Dashboard para controle de investimentos e metas. |
 
 ---
 
-### 📊 Insights de Desenvolvimento
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpst-dev&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpst-dev&layout=compact&theme=nord" />
+### 📊 Estatísticas
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=jpst-dev&show_icons=true&theme=transparent&title_color=00dc82&text_color=ffffff&icon_color=00dc82&hide_border=true" alt="Estatísticas do GitHub" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpst-dev&layout=compact&theme=transparent&title_color=00dc82&text_color=ffffff&icon_color=00dc82&hide_border=true" alt="Linguagens mais usadas" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&quote=O%20trabalho%20bem%20feito%20é%20uma%20forma%20de%20oração." />
-</p>
-
-<p align="center">
-  <small>Soli Deo Gloria ✝️</small>
+  <i>"A clareza é a cortesia do programador."</i><br>
+  <b>Ad Maiorem Dei Gloriam ⚔️ ✝️</b>
 </p>
