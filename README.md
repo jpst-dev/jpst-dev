@@ -49,16 +49,14 @@ Desenvolvedor Front-end focado em **Vue.js** e **Arquitetura de Software**. Meu 
 
 ---
 
-### 📊 Estatísticas
+### 📈 Produtividade & Consistência
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jpst-dev&show_icons=true&theme=transparent&title_color=00dc82&text_color=ffffff&icon_color=00dc82&hide_border=true" alt="Estatísticas do GitHub" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpst-dev&layout=compact&theme=transparent&title_color=00dc82&text_color=ffffff&icon_color=00dc82&hide_border=true" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jpst-dev&theme=dark&hide_border=true&stroke=00dc82&ring=00dc82&fire=00dc82&currStreakLabel=00dc82" alt="GitHub Streak Stats" />
 </p>
 
 ---
 
 <p align="center">
   <i>"A clareza é a cortesia do programador."</i><br>
-  <b>Ad Maiorem Dei Gloriam ⚔️ ✝️</b>
+  **Ad Maiorem Dei Gloriam ⚔️ ✝️**
 </p>
