@@ -1,93 +1,68 @@
-<!-- README do perfil GitHub do João Teixeira (@jpst-dev) -->
-
-<h1 align="center">👋 Olá! Eu sou o João Teixeira</h1>
-
+<!-- Header com Banner Personalizado -->
 <p align="center">
-  Desenvolvedor Front-end focado em performance, usabilidade e interfaces modernas.  
-  <br/>
-  Vue.js • Nuxt • React • Next.js • TypeScript • TailwindCSS
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=00dc82&height=200&section=header&text=João%20Teixeira&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20|%20Vue%20Specialist&descSize=20&descAlignY=60" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://joaoteixeira.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel" />
-  </a>
-  <a href="https://github.com/jpst-dev" target="_blank">
-    <img src="https://img.shields.io/github/followers/jpst-dev?label=Follow&style=for-the-badge" />
-  </a>
+  <a href="https://joaoteixeira.vercel.app"><b>Website</b></a> •
+  <a href="https://linkedin.com/in/jpst-dev"><b>LinkedIn</b></a> •
+  <a href="mailto:jteixeira.dev@hotmail.com"><b>E-mail</b></a>
 </p>
 
 ---
 
-### 🚀 Sobre mim
+### 🏛️ Filosofia & Engenharia
+> *"A clareza é a cortesia do programador, assim como a distinção é a do filósofo."*
 
-- 🎯 Desenvolvedor front-end com mais de 2 anos de experiência
-- 📚 Estudando Vue 3, arquitetura de software, testes e IA aplicada ao desenvolvimento
-- ✍️ Gosto de escrever código limpo, reutilizável e com boas práticas
-- 💬 Também estudo teologia e filosofia nas horas vagas
+Sou um desenvolvedor movido pela busca da **ordem** e da **eficiência**. Minha base técnica no ecossistema Vue.js é complementada por estudos em lógica e teologia clássica, o que me permite abordar problemas complexos com rigor analítico e busca por soluções perenes, não apenas temporárias.
 
----
-
-### 🧰 Tecnologias que uso
-
-#### 🖼️ **Frontend**
-
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-#### 🎨 **Estilo & UI**
-
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-#### 🔧 **Ferramentas & Build**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E)
-![Webpack](https://img.shields.io/badge/Webpack-1C78C0?style=for-the-badge&logo=webpack&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
-
-#### 🧪 **Testes**
-
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-
-#### ⚙️ **DevOps / Versionamento**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+- 🏗️ **Arquitetura:** Foco em Nuxt 3, TypeScript e Clean Code.
+- 🎓 **Intelecto:** Estudioso da doutrina católica, filosofia escolástica e apologética.
+- 🚀 **Objetivo:** Construir interfaces que sejam tão sólidas quanto belas.
 
 ---
 
-### 🌟 Projetos em destaque
-
-| Projeto        | Descrição                                                                 | Tecnologias                    |
-|----------------|---------------------------------------------------------------------------|--------------------------------|
-| 🎬 [CineMatch](https://github.com/jpst-dev/cinematch) | Sugestão de filmes por streaming + Rotten Tomatoes                 | Vue 3, TypeScript, Tailwind    |
-| 💼 [Portfolio V3](https://github.com/jpst-dev/portfolio-v3) | Meu portfólio pessoal feito com Vue + Vite                        | Vue 3, Vite, Tailwind          |
-| 💰 [Finanças Pessoais](https://github.com/jpst-dev/finance-dashboard) | App de controle financeiro com planejamento e rastreio de investimentos | Em desenvolvimento            |
-
----
-
-### 📊 Estatísticas
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jpst-dev&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpst-dev&layout=compact&theme=radical" />
+### 🛠️ Tech Stack
+<p align="left">
+  <!-- Core -->
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,ts,tailwind,react,nextjs" /><br/><br/>
+  <!-- Tooling -->
+  <img src="https://skillicons.dev/icons?i=vite,git,github,githubactions,jest,cypress" />
 </p>
 
 ---
 
-### 📫 Onde me encontrar
+### 🌟 Projetos Selecionados
 
-- 🌐 Portfólio: [joaoteixeira.vercel.app](https://joaoteixeira.vercel.app)
-- 💼 LinkedIn: [linkedin.com/in/jpst-dev](https://www.linkedin.com/in/jpst-dev/)
-- 📧 E-mail: jpst_2001@hotmail.com
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <p align="center"><b>🎬 CineMatch</b></p>
+        <p align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jpst-dev&repo=cinematch&theme=nord" width="100%"></p>
+      </td>
+      <td width="50%">
+        <p align="center"><b>💰 Finanças Pessoais</b></p>
+        <p align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jpst-dev&repo=finance-dashboard&theme=nord" width="100%"></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 📊 Insights de Desenvolvimento
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpst-dev&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpst-dev&layout=compact&theme=nord" />
+</p>
 
 ---
 
 <p align="center">
-  Feito com 💚 por João Teixeira
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&quote=O%20trabalho%20bem%20feito%20é%20uma%20forma%20de%20oração." />
+</p>
+
+<p align="center">
+  <small>Soli Deo Gloria ✝️</small>
 </p>
