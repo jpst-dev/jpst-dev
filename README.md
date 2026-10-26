@@ -54,7 +54,7 @@ Desenvolvedor **Full Stack** com 4+ anos construindo produtos web, do **Design S
 | :--- | :--- | :--- |
 | 🎮 **[DealsGamer](https://github.com/jpst-dev/gamedeals)** · [dealsgamer.com](https://dealsgamer.com) | `Nuxt 3`, `TS`, `Nuxt UI`, `Pinia` | Comparador de ofertas de jogos para PC, no ar com domínio próprio. SSR, proxy de API no servidor e cache SWR. |
 | 🎬 **[CineMatch](https://github.com/jpst-dev/cinematch)** · [cinematch.jteixeira.dev](https://cinematch.jteixeira.dev) | `Vue 3`, `TS`, `Tailwind`, `Vercel Functions` | Descoberta de filmes com visual de sala de cinema: destaque em carrossel, fileiras, trailer e onde assistir. Chave da API protegida num proxy no servidor. |
-| 💰 **[Finance Dashboard](https://github.com/jpst-dev/finance-dashboard)** · [demo](https://finance-dashboard-8gk3.vercel.app) | `Vue 3`, `TS`, `Pinia`, `Chart.js` | Finanças pessoais e portfólio de cripto num só painel, com gráficos interativos. |
+| 💰 **[Finance Dashboard](https://github.com/jpst-dev/finance-dashboard)** · [finance.jteixeira.dev](https://finance.jteixeira.dev) | `Vue 3`, `TS`, `Pinia`, `Chart.js` | Finanças pessoais e carteira de cripto num só painel, com preços em reais em tempo real e dados de exemplo para explorar. |
 | 🏛️ **[Veritas Fidei](https://github.com/jpst-dev/veritas-fidei)** · [demo](https://veritas-fidei.vercel.app) | `Vue 3`, `TS`, `Pinia` | Plataforma de estudo de teologia e apologética católica, organizada por categorias e tópicos. |
 | 💼 **[jteixeira.dev](https://github.com/jpst-dev/jteixeira)** · [site](https://jteixeira.dev) | `Astro`, `Vue`, `Tailwind` | Meu portfólio: PT/EN, CV gerado do mesmo conteúdo, Lighthouse 100 em acessibilidade e SEO. |
 
