@@ -55,7 +55,7 @@ Desenvolvedor **Full Stack** com 4+ anos construindo produtos web, do **Design S
 | 🎮 **[DealsGamer](https://github.com/jpst-dev/gamedeals)** · [dealsgamer.com](https://dealsgamer.com) | `Nuxt 3`, `TS`, `Nuxt UI`, `Pinia` | Comparador de ofertas de jogos para PC, no ar com domínio próprio. SSR, proxy de API no servidor e cache SWR. |
 | 🎬 **[CineMatch](https://github.com/jpst-dev/cinematch)** · [cinematch.jteixeira.dev](https://cinematch.jteixeira.dev) | `Vue 3`, `TS`, `Tailwind`, `Vercel Functions` | Descoberta de filmes com visual de sala de cinema: destaque em carrossel, fileiras, trailer e onde assistir. Chave da API protegida num proxy no servidor. |
 | 💰 **[Finance Dashboard](https://github.com/jpst-dev/finance-dashboard)** · [finance.jteixeira.dev](https://finance.jteixeira.dev) | `Vue 3`, `TS`, `Pinia`, `Chart.js` | Finanças pessoais e carteira de cripto num só painel, com preços em reais em tempo real e dados de exemplo para explorar. |
-| 🏛️ **[Veritas Fidei](https://github.com/jpst-dev/veritas-fidei)** · [demo](https://veritas-fidei.vercel.app) | `Nuxt 4`, `Nuxt Content`, `TS` | Formação e defesa da fé católica: artigos revisados e trilhas de estudo, gerado estático com padrão editorial verificado no build. |
+| 🏛️ **[Veritas Fidei](https://github.com/jpst-dev/veritas-fidei)** · [veritas.jteixeira.dev](https://veritas.jteixeira.dev) | `Nuxt 4`, `Nuxt Content`, `TS` | Formação e defesa da fé católica: artigos revisados e trilhas de estudo, gerado estático com padrão editorial verificado no build. |
 | 💼 **[jteixeira.dev](https://github.com/jpst-dev/jteixeira)** · [site](https://jteixeira.dev) | `Astro`, `Vue`, `Tailwind` | Meu portfólio: PT/EN, CV gerado do mesmo conteúdo, Lighthouse 100 em acessibilidade e SEO. |
 
 ---
